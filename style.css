@@ -290,13 +290,13 @@ button:focus-visible {
 }
 
 .contact h2 {
-  font-size: 38px;
+  font-size: 28px;
 }
 
 .email {
   display: inline-block;
   margin-top: 24px;
-  font-size: clamp(18px, 2.8vw, 24px);
+  font-size: clamp(14px, 2.4vw, 20px);
   font-weight: 800;
   color: var(--cyan);
 }
